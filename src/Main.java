@@ -15,7 +15,6 @@ public class Main {
             int count = i + 1;
             System.out.println("Enter " + count +  " number");
             arr[i] = scanner.nextInt();
-//            System.out.println(arr[i]);
         }
         return arr;
     }

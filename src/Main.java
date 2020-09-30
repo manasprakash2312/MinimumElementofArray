@@ -26,7 +26,7 @@ public class Main {
                 minimumElement = arr[i];
             }
         }
-        System.out.println("Minimum element is " + minimumElement);
+        System.out.println("Minimum element of the array is " + minimumElement);
 
 
     }
